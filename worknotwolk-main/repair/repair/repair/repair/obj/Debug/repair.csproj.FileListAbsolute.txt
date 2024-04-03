@@ -1,0 +1,80 @@
+D:\Бесова\repair\repair\obj\Debug\repair.csproj.AssemblyReference.cache
+D:\Бесова\repair\repair\obj\Debug\repair.csproj.SuggestedBindingRedirects.cache
+D:\Бесова\repair\repair\obj\Debug\repair.Аuth.resources
+D:\Бесова\repair\repair\obj\Debug\repair.Manager_menu.resources
+D:\Бесова\repair\repair\obj\Debug\repair.NewExecutor.resources
+D:\Бесова\repair\repair\obj\Debug\repair.Order.resources
+D:\Бесова\repair\repair\obj\Debug\repair.Properties.Resources.resources
+D:\Бесова\repair\repair\obj\Debug\repair.User_windows.resources
+D:\Бесова\repair\repair\obj\Debug\repair.csproj.GenerateResource.cache
+D:\Бесова\repair\repair\obj\Debug\repair.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Downloads\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\repair.exe.config
+C:\Users\Артем\Downloads\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\repair.exe
+C:\Users\Артем\Downloads\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\repair.pdb
+C:\Users\Артем\Downloads\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.csproj.AssemblyReference.cache
+C:\Users\Артем\Downloads\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Аuth.resources
+C:\Users\Артем\Downloads\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.EditOrder.resources
+C:\Users\Артем\Downloads\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.EditProblem.resources
+C:\Users\Артем\Downloads\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Manager_menu.resources
+C:\Users\Артем\Downloads\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.NewExecutor.resources
+C:\Users\Артем\Downloads\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.NewProblem.resources
+C:\Users\Артем\Downloads\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Order.resources
+C:\Users\Артем\Downloads\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Properties.Resources.resources
+C:\Users\Артем\Downloads\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.User_windows.resources
+C:\Users\Артем\Downloads\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.csproj.GenerateResource.cache
+C:\Users\Артем\Downloads\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Downloads\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.exe
+C:\Users\Артем\Downloads\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.pdb
+C:\Users\it-student.MEPHI3.000\Desktop\worknotwolk-main_1 (1)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\repair.exe.config
+C:\Users\it-student.MEPHI3.000\Desktop\worknotwolk-main_1 (1)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\repair.exe
+C:\Users\it-student.MEPHI3.000\Desktop\worknotwolk-main_1 (1)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\repair.pdb
+C:\Users\it-student.MEPHI3.000\Desktop\worknotwolk-main_1 (1)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.csproj.AssemblyReference.cache
+C:\Users\it-student.MEPHI3.000\Desktop\worknotwolk-main_1 (1)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.csproj.SuggestedBindingRedirects.cache
+C:\Users\it-student.MEPHI3.000\Desktop\worknotwolk-main_1 (1)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Аuth.resources
+C:\Users\it-student.MEPHI3.000\Desktop\worknotwolk-main_1 (1)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.EditOrder.resources
+C:\Users\it-student.MEPHI3.000\Desktop\worknotwolk-main_1 (1)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.EditProblem.resources
+C:\Users\it-student.MEPHI3.000\Desktop\worknotwolk-main_1 (1)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Manager_menu.resources
+C:\Users\it-student.MEPHI3.000\Desktop\worknotwolk-main_1 (1)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.NewExecutor.resources
+C:\Users\it-student.MEPHI3.000\Desktop\worknotwolk-main_1 (1)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.NewProblem.resources
+C:\Users\it-student.MEPHI3.000\Desktop\worknotwolk-main_1 (1)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Order.resources
+C:\Users\it-student.MEPHI3.000\Desktop\worknotwolk-main_1 (1)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Properties.Resources.resources
+C:\Users\it-student.MEPHI3.000\Desktop\worknotwolk-main_1 (1)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.User_windows.resources
+C:\Users\it-student.MEPHI3.000\Desktop\worknotwolk-main_1 (1)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.csproj.GenerateResource.cache
+C:\Users\it-student.MEPHI3.000\Desktop\worknotwolk-main_1 (1)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.csproj.CoreCompileInputs.cache
+C:\Users\it-student.MEPHI3.000\Desktop\worknotwolk-main_1 (1)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.exe
+C:\Users\it-student.MEPHI3.000\Desktop\worknotwolk-main_1 (1)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.pdb
+C:\Users\Артем\Downloads\Telegram Desktop\sentsova16\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\repair.exe.config
+C:\Users\Артем\Downloads\Telegram Desktop\sentsova16\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\repair.exe
+C:\Users\Артем\Downloads\Telegram Desktop\sentsova16\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\repair.pdb
+C:\Users\Артем\Downloads\Telegram Desktop\sentsova16\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.csproj.AssemblyReference.cache
+C:\Users\Артем\Downloads\Telegram Desktop\sentsova16\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Аuth.resources
+C:\Users\Артем\Downloads\Telegram Desktop\sentsova16\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.EditOrder.resources
+C:\Users\Артем\Downloads\Telegram Desktop\sentsova16\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.EditProblem.resources
+C:\Users\Артем\Downloads\Telegram Desktop\sentsova16\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Manager_menu.resources
+C:\Users\Артем\Downloads\Telegram Desktop\sentsova16\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.NewExecutor.resources
+C:\Users\Артем\Downloads\Telegram Desktop\sentsova16\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.NewProblem.resources
+C:\Users\Артем\Downloads\Telegram Desktop\sentsova16\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Order.resources
+C:\Users\Артем\Downloads\Telegram Desktop\sentsova16\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Properties.Resources.resources
+C:\Users\Артем\Downloads\Telegram Desktop\sentsova16\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.User_windows.resources
+C:\Users\Артем\Downloads\Telegram Desktop\sentsova16\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.csproj.GenerateResource.cache
+C:\Users\Артем\Downloads\Telegram Desktop\sentsova16\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Downloads\Telegram Desktop\sentsova16\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.exe
+C:\Users\Артем\Downloads\Telegram Desktop\sentsova16\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.pdb
+C:\Users\IT-Student.MEPHI3.007\Downloads\worknotwolk-main\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\repair.exe.config
+C:\Users\IT-Student.MEPHI3.007\Downloads\worknotwolk-main\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\repair.exe
+C:\Users\IT-Student.MEPHI3.007\Downloads\worknotwolk-main\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\repair.pdb
+C:\Users\IT-Student.MEPHI3.007\Downloads\worknotwolk-main\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.csprojResolveAssemblyReference.cache
+C:\Users\IT-Student.MEPHI3.007\Downloads\worknotwolk-main\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Аuth.resources
+C:\Users\IT-Student.MEPHI3.007\Downloads\worknotwolk-main\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.EditOrder.resources
+C:\Users\IT-Student.MEPHI3.007\Downloads\worknotwolk-main\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.EditProblem.resources
+C:\Users\IT-Student.MEPHI3.007\Downloads\worknotwolk-main\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Manager_menu.resources
+C:\Users\IT-Student.MEPHI3.007\Downloads\worknotwolk-main\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.NewExecutor.resources
+C:\Users\IT-Student.MEPHI3.007\Downloads\worknotwolk-main\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.NewProblem.resources
+C:\Users\IT-Student.MEPHI3.007\Downloads\worknotwolk-main\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Order.resources
+C:\Users\IT-Student.MEPHI3.007\Downloads\worknotwolk-main\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Properties.Resources.resources
+C:\Users\IT-Student.MEPHI3.007\Downloads\worknotwolk-main\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.User_windows.resources
+C:\Users\IT-Student.MEPHI3.007\Downloads\worknotwolk-main\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.csproj.GenerateResource.cache
+C:\Users\IT-Student.MEPHI3.007\Downloads\worknotwolk-main\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.csproj.CoreCompileInputs.cache
+C:\Users\IT-Student.MEPHI3.007\Downloads\worknotwolk-main\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.exe
+C:\Users\IT-Student.MEPHI3.007\Downloads\worknotwolk-main\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.pdb
+C:\Users\IT-Student.MEPHI3.007\Downloads\worknotwolk-main\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.import.resources
